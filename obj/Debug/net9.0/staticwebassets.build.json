@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q3zM4PLriTyBpuowWXqmEahX5Sy0L6rja000KhB9DfY=",
+  "Source": "MyCsharpServer",
+  "BasePath": "_content/MyCsharpServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
